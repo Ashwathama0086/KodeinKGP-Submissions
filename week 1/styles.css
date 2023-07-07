@@ -1,0 +1,9 @@
+body{
+    background-color: cornsilk ;
+    text-align: center;
+}
+button{
+    border-color: rgb(7, 7, 114);
+    color: #ececf6;
+    background-color: rgb(65, 65, 201);
+}
